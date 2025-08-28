@@ -6,7 +6,7 @@ Each folder includes simple codes and practice tasks to understand Python concep
 ## 📂 Folder structure
 
 - **00.projects/** : Small projects for practical practice  
-- **01.basics/** : Exercises and examples abou tvariables, expressions and operators  
+- **01.basics/** : Exercises and examples about variables, expressions and operators  
 - **02.condition** : Conditional statements (if, elif, else)  
 - **03.forLoop/** : Exercises with the **for** loop  
 - **04.while/** : Exercises with the **while** loop  

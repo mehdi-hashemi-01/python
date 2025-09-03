@@ -1,7 +1,11 @@
-# Python Lecture
+# Python Lecture Repository
 
-This repository contains Python exercises and examples for learning step by step.  
-Each folder includes simple codes and practice tasks to understand Python concepts better.
+This repo hosts the official exercises and examples used in my Python classes. Each folder corresponds to a lecture session and contains:
+- Concise demo scripts that illustrate the day’s topic
+- Hands-on practice tasks with starter code and expected output
+- Inline comments and mini-READMEs that explain the “why” behind every snippet
+
+Clone the repository and work through the folders in order. Solve each exercise before peeking at the reference solutions. Issues and pull requests are welcome—happy coding!
 
 ## 📂 Folder structure
 

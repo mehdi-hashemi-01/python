@@ -1,4 +1,4 @@
-# Python Exercises
+# Python Lecture
 
 This repository contains Python exercises and examples for learning step by step.  
 Each folder includes simple codes and practice tasks to understand Python concepts better.

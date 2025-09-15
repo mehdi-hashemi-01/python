@@ -23,9 +23,5 @@ def calculate_average_grade(grades):
     else:
         return "fail"
 
-
 # Test the function with a list of grades
 print(calculate_average_grade([11, 20, 13, 14, 15, 16, 17, 8, 9]))
-
-
-
